@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,js,react,go,html,css,mongo)](https://skillicons.dev)
 
 <!--
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

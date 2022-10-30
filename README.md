@@ -5,6 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,react,html,css)](https://skillicons.dev)
 #### Back End:
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,mysql,postgres,mongo)](https://skillicons.dev)
+#### Other:
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes)](https://skillicons.dev)
 
 <!--
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

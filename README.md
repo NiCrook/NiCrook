@@ -3,7 +3,7 @@
 #### I am a Full Stack Developer
 
 #### Front End:
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,react,html,css)](https://skillicons.dev)
 
 #### Back End:
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,mysql,postgres,mongo)](https://skillicons.dev)

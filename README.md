@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,js,react,go,html,css,mongo)](https://skillicons.dev)
+#### I am a Full Stack Developer
+
+#### Front End:
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+
+#### Back End:
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,mysql,postgres,mongo)](https://skillicons.dev)
 
 <!--
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

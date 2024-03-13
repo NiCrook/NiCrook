@@ -2,11 +2,11 @@
 
 #### I am a Full Stack Developer
 #### Front End:
-[![My Skills](https://skillicons.dev/icons?i=js,angular,jquery,react,vue,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,jquery,vue,html,css,bootstrap)](https://skillicons.dev)
 #### Back End:
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,mysql,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,mysql,postgres,mongo,anaconda)](https://skillicons.dev)
 #### Other:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,git)](https://skillicons.dev)
 
 <!--
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

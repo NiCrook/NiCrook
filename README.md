@@ -2,7 +2,7 @@
 
 #### I am a Full Stack Developer
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,babel,bootstrap,css,django,docker,flask,git,go,gradle,html,java,jenkins,jest,jquery,js,kubernetes,lua,mongodb,mysql,nodejs,postgres,postman,python,react,selenium,vue&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,babel,bootstrap,css,django,docker,flask,git,go,gradle,html,java,jenkins,jest,jquery,js,kubernetes,lua,mongodb,mysql,nodejs,postgres,postman,python,react,selenium,ts,vue&perline=10)](https://skillicons.dev)
 
 <!--
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

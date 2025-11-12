@@ -1,24 +1,106 @@
-### Hi there 👋
+# Nicholas Crook
 
-#### I am a Full Stack Developer
+Hi there 👋. I am a Full Stack Engineer who is enthusiastic about the applications of AI/ML.
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,aws,bootstrap,css,django,docker,express,flask,git,go,html,java,jenkins,jest,jquery,js,kubernetes,lua,mongodb,mysql,nodejs,postgres,postman,python,react,selenium,terraform,ts,vue&perline=10)](https://skillicons.dev)
+## Skills
 
-<!--
-**NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+- Python
+	- BeautifulSoup
+	- Django
+	- Pandas
+	- Selenium
+	- PyTest
+- JavaScript
+	- TypeScript
+	- Angular
+	- React
+	- Redux
+	- NextJS
+	- RxJS
+	- Jest
+	- Cypress
+	- Node.js
+	- NPM
+- Go
+- C/C++
+- Java
+- Rust	
+- HTML
+- CSS
+	- Tailwind
+	- Material UI
+	- CMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
 
-[![NiCrook's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiCrook&theme=highcontrast)](https://github.com/NiCrook/github-readme-stats)
+- SQL
+- NoSQL
+- PostgresSQL
+- GraphQL
+- MongoDB
+- Pinecone
+- Chroma
+- LiquiBase
+- DataBricks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCrook&layout=compact&theme=highcontrast)](https://github.com/NiCrook/github-readme-stats)
+### DevOps
+
+- AWS (S3, EC2, ECS, RDS, Lambda, Step Function, Cloudwatch)
+- Kubernetes
+- Terraform
+- Docker
+- NGINX
+
+### CI/CD
+
+- Git
+- GitHub Actions
+- SonarQube
+- Snyk
+- OpenAPI
+- Swagger
+- Jenkins
+
+### API
+
+- REST
+- GraphQL
+- FastAPI
+- Flask
+- Express
+- JWT
+- OAuth2
+- Postman
+
+### Other
+
+- Jupyter Notebooks
+- Agile
+- Jira
+- Kanban
+- Scrum
+- FHIR
+- CUDA
+
+### AI/ML
+
+- Claude Code
+- Stable Diffusion
+- Diffusers
+- Transformers
+- LangChain
+- PySpark
+- PyTorch
+- TensorFlow
+- Candle
+
+### Windows
+
+- Powershell
+
+### Linux
+
+- Ubuntu
+- Bash
